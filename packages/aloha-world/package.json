@@ -1,6 +1,7 @@
 {
   "name": "@brolly/aloha-world",
-  "version": "0.0.1",
+  "version": "0.0.2",
+  "private": true,
   "description": "> TODO: description",
   "author": "Thiago Sousa <thiago.sousa@paylivre.com>",
   "homepage": "",
@@ -15,5 +16,6 @@
   ],
   "scripts": {
     "test": "echo \"Error: run tests from root\" && exit 1"
-  }
+  },
+  "gitHead": "815f22c35db7418037c3d2dde70d8a0e64098a4a"
 }
